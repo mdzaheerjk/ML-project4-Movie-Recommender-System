@@ -10,6 +10,7 @@ A machine learning project for building a movie recommender system using collabo
 
 ## 🎬 Project Overview
 
+
 This repository demonstrates the construction of a movie recommender system using collaborative filtering techniques. The system suggests movies to users based on their previous ratings and similarities to other users.
 
 ---
